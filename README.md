@@ -4,8 +4,6 @@
 
 ## Sumário
 
-- [Regressão Linear](#regress%c3%a3o-linear)
-  - [Sumário](#sum%c3%a1rio)
   - [Tabela Formatada](#tabela-formatada)
   - [Escalonamento](#escalonamento)
   - [Regressão](#regress%c3%a3o)
